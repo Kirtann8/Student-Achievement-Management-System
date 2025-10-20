@@ -95,7 +95,8 @@ Thumbs.db
 *.tmp
 *.temp
 
-# Documentation Build (if using doc generators)
+# Documentation Files & Build (MongoDB docs, generated docs, etc.)
+docs/
 docs/build/
 docs/_build/
 docs/dist/
